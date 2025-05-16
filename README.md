@@ -12,21 +12,21 @@
 
 # 🚇 Metro Navigator – Real-Time Metro Route Planner
 
-MetroNavigator-WebApp is a **Django-based full-stack application** designed to visualize metro routes and optimize journey planning using **Dijkstra’s algorithm**. It enables users to find the shortest route, nearest stations, expected departure times, and interchanges through a rich and responsive UI.
+MetroNavigator-WebApp is a Django-based full-stack application that visualizes metro routes and optimizes journey planning using Dijkstra’s algorithm. It helps users find shortest paths, nearest stations, travel times, and interchanges through a clean and responsive UI.
 
 ---
 
 ## 📸 UI Snapshots
 
 <p align="center">
-  <img src="images/main.jpg" width="220" />
-  <img src="images/main2.jpg" width="220" />
-  <img src="images/pop.jpg" width="220" />
+  <img src="main.jpg" width="220" />
+  <img src="main2.jpg" width="220" />
+  <img src="pop.jpg" width="220" />
 </p>
 <p align="center">
-  <img src="images/ui1.jpg" width="220" />
-  <img src="images/ui2.jpg" width="220" />
-  <img src="images/ui3.jpg" width="220" />
+  <img src="ui1.jpg" width="220" />
+  <img src="ui2.jpg" width="220" />
+  <img src="ui3.jpg" width="220" />
 </p>
 
 ---
@@ -47,35 +47,34 @@ MetroNavigator-WebApp is a **Django-based full-stack application** designed to v
 
 ## ✨ Features
 
-- 🔄 Real-time metro route & schedule information
-- 🧭 Dijkstra’s algorithm for optimal route calculation
-- 📍 Locate the nearest metro station from your location
-- 🧠 Smart interchange recommendations with travel summary
-- 🎨 Material Design UI for smooth, intuitive interaction
-- 📱 Responsive design compatible across devices
-- 🔐 HTTPS enabled via self-signed SSL certificates
+- Real-time metro route and schedule information
+- Dijkstra’s algorithm for shortest path calculation
+- Nearest station locator based on user input
+- Summary with interchanges, travel time, and distances
+- Responsive UI based on Material Design
+- HTTPS support via self-signed SSL certificates
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Backend:** Django, Python
-- **Frontend:** HTML, CSS, JavaScript
-- **Algorithm & Graphs:** Dijkstra's Algorithm, NetworkX, Matplotlib
-- **Deployment:** Docker, Docker Compose
-- **Security:** OpenSSL for certificate generation
+- Django
+- Python
+- Docker & Docker Compose
+- Matplotlib
+- NetworkX
+- OpenSSL (for SSL certificate generation)
 
 ---
 
 ## 🚀 Getting Started
 
-### 🔧 Prerequisites
+### Prerequisites
 
 - Python 3.x
-- Docker
-- Docker Compose
+- Docker & Docker Compose
 
-### 📥 Clone the Repository
+### Cloning the Repository
 
 ```bash
 git clone https://github.com/your-username/MetroNavigator-WebApp.git
