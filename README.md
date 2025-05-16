@@ -19,14 +19,14 @@ MetroNavigator-WebApp is a Django-based full-stack application that visualizes m
 ## 📸 UI Snapshots
 
 <p align="center">
-  <img src="main.jpg" width="220" />
-  <img src="main2.jpg" width="220" />
-  <img src="pop.jpg" width="220" />
+  <img src="main(3).jpg" width="220" />
+  <img src="main(2).jpg" width="220" />
+  <img src="pop(1).jpg" width="220" />
 </p>
 <p align="center">
-  <img src="ui1.jpg" width="220" />
-  <img src="ui2.jpg" width="220" />
-  <img src="ui3.jpg" width="220" />
+  <img src="ui(1).jpg" width="220" />
+  <img src="ui(2).jpg" width="220" />
+  <img src="ui(3).jpg" width="220" />
 </p>
 
 ---
